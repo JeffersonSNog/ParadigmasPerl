@@ -1,4 +1,4 @@
-# Perl — Ecossistema e Sistema de Tipos
+# Perl: Ecossistema e Sistema de Tipos
 
 Trabalho acadêmico de Paradigmas de Programação, 6º semestre, Ciência da Computação (Senac SP).
 
