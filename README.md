@@ -14,7 +14,6 @@ perl -v
 ## Como rodar cada script
 
 ```
-cd src
 perl 01_basico.pl
 perl 02_tipos_primitivos.pl
 perl 03_sistema_tipos.pl
